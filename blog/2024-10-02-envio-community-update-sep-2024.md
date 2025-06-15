@@ -62,7 +62,7 @@ Other new networks that were added to HyperSync this month include:
 - Berachain Bartio
 - Morph Testnet
 - Citrea's New Testnet
-- Kakarot-EVM Tesnet (Sepolia)
+- Kakarot-EVM Testnet (Sepolia)
 - Merlin Mainnet
 - Lukso Testnet
 
