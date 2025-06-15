@@ -78,7 +78,7 @@ We encourage the community to review, test, and provide feedback on these implem
 
 ## Findings
 
-Below is a the results from the benchmarking tests, measured in number of events indexed per second:
+Below are the results from the benchmarking tests, measured in number of events indexed per second:
 
 <img src="/blog-assets/envio-univ3-benchmark-results.png" alt="future of blockchain indexing" width="100%"/>
 
