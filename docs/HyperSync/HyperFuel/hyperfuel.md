@@ -9,7 +9,7 @@ slug: /hyperfuel
 
 HyperFuel is HyperSync adapted for the [Fuel Network](https://fuel.network/) and is exposed as a low-level API for developers and data analysts to create flexible, high-speed queries for all fuel data.
 
-Users can interact with the HyperFuel in Rust, Python, NodeJS clients, or directly via the JSON API to extract data into parquet files, arrow format, or as typed data. Client examples are listed furhter below.
+Users can interact with the HyperFuel in Rust, Python, NodeJS clients, or directly via the JSON API to extract data into parquet files, arrow format, or as typed data. Client examples are listed further below.
 
 Using HyperFuel, application developers can easily sync and search large datasets in a few minutes. HyperFuel is an ideal solution for indexers, block explorers, data analysts, bridges, and other applications or use cases focused on performance.
 
