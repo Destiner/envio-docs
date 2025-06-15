@@ -87,7 +87,7 @@ A big thank you to all the attendees, sponsors, and event organizers for making 
 
 <img src="/blog-assets/envio-developer-community-sep-2024-4.png" alt="Cover Image Encode Club Indexing On Fuel" width="100%"/>
 
-- [How to Index Dat on Citrea in < 5mins](https://www.youtube.com/watch?v=rPPxS6ORaEc)
+- [How to Index Data on Citrea in < 5mins](https://www.youtube.com/watch?v=rPPxS6ORaEc)
 
 <img src="/blog-assets/envio-developer-community-sep-2024-5.png" alt="Cover Image Indexing On Citrea" width="100%"/>
 
